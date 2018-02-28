@@ -1,2 +1,2 @@
 # textboxcharactercount
-text box character count
+text box character count in angular 4
